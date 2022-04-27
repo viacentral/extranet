@@ -1,0 +1,1 @@
+<div class="col-12 col-xs-12 col-md-10 col-lg-10 col-xl-10 col-xxl-10 bg-light">

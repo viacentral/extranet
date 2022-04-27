@@ -1,0 +1,13 @@
+[20-Apr-2022 12:08:07 America/Chicago] PHP Warning:  require_once(core/dbconn.php): failed to open stream: No such file or directory in /home2/viaceral/public_html/informa/index.php on line 1
+[20-Apr-2022 12:08:07 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'core/dbconn.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/viaceral/public_html/informa/index.php on line 1
+[20-Apr-2022 12:10:58 America/Chicago] PHP Warning:  Use of undefined constant Y - assumed 'Y' (this will throw an Error in a future version of PHP) in /home2/viaceral/public_html/informa/index.php on line 4
+[20-Apr-2022 12:10:58 America/Chicago] PHP Warning:  Use of undefined constant m - assumed 'm' (this will throw an Error in a future version of PHP) in /home2/viaceral/public_html/informa/index.php on line 4
+[20-Apr-2022 12:10:58 America/Chicago] PHP Warning:  A non-numeric value encountered in /home2/viaceral/public_html/informa/index.php on line 4
+[20-Apr-2022 12:10:58 America/Chicago] PHP Warning:  A non-numeric value encountered in /home2/viaceral/public_html/informa/index.php on line 4
+[20-Apr-2022 12:10:58 America/Chicago] PHP Warning:  Use of undefined constant d - assumed 'd' (this will throw an Error in a future version of PHP) in /home2/viaceral/public_html/informa/index.php on line 4
+[20-Apr-2022 12:10:58 America/Chicago] PHP Warning:  A non-numeric value encountered in /home2/viaceral/public_html/informa/index.php on line 4
+[20-Apr-2022 12:17:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_row() in /home2/viaceral/public_html/informa/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/viaceral/public_html/informa/index.php on line 6
+[20-Apr-2022 12:20:11 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home2/viaceral/public_html/informa/index.php on line 30
